@@ -1,0 +1,30 @@
+body {
+  margin: 0 auto;
+  max-width: 600px;
+  background-color: #ffc83d;
+}
+h1 {
+  text-align: center;
+  font-size: 34px;
+}
+p {
+  text-align: center;
+  font-size: 18px;
+  background-color: #fbcc54;
+}
+.pages {
+  text-align: center;
+}
+.link-footer {
+  padding: 10px;
+  text-decoration: none;
+  color: rgba(255, 0, 0, 0.879);
+}
+.link-footer:hover {
+  text-decoration: underline;
+}
+.image {
+  display: block;
+  width: 300px;
+  margin: 0 auto 20px;
+}
